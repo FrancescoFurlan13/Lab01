@@ -1,4 +1,12 @@
 Paolo 4
+Giorgio 4
+Fra 2
+Fra 2
 Lucia 1
 Mario 1
 Giuseppe 0
+Francesco 0
+Fra 0
+GG 0
+Ale 0
+Ludo 0
